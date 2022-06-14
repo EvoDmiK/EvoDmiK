@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white">
 </div>
-<p></p>
+<p></p><p></p><p></p><p></p>
 <div align=center>
     <p><strong>2. FRAMEWORKS</strong></p>
     <p>2-1. AI & Data Science</p>
