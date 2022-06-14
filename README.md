@@ -1,5 +1,5 @@
 # **Hello! My name is Dove. J. Kim!**
-## **I'm Python Developer and Deep Learning Enginner**
+**I'm Python Developer and Deep Learning Enginner**
 
 <div align=center>
     <a href="https://instagram.com/kimhippo401">
@@ -22,5 +22,5 @@
 
 # **STACKS**
 <div align=center>
-    <h4><strong>PROGRAMMING LANGUAGE</strong></h4>
+    <h2>PROGRAMMING LANGUAGE</h2>
 </div>
