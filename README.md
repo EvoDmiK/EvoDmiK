@@ -7,15 +7,14 @@
     <img 
         src="https://img.shields.io/github/followers/EvoDmiK?label=EvoDmiK%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    
-    <a href="https://instagram.com/kimhippo401">
-        <img 
-            src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
-    <a href="https://alpox.kr">
-        <img 
-            src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://https://dove-nest.tistory.com/"
-            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
 </div>
+<a href="https://instagram.com/kimhippo401">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://https://dove-nest.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
