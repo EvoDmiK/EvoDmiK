@@ -22,7 +22,7 @@
 
 # **STACKS**
 <div align=center>
-    <h2>PROGRAMMING LANGUAGES</h2>
+    <p><strong>PROGRAMMING LANGUAGES</strong></p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white">
