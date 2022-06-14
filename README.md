@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white">
 </div>
 <div align=center>
-    <h2>FRAMEWORKS</h2>
+    <p><strong>FRAMEWORKS</strong></p>
     <img src="https://img.shields.io/badge/Tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
