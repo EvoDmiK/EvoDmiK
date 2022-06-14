@@ -1,15 +1,18 @@
 # **Hello! My name is Dove. J. Kim!**
 ## **I'm Python Developer and Deep Learning Enginner**
-<a href="https://instagram.com/kimhippo401">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://https://dove-nest.tistory.com">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-blueviolet?style=flat&logo=github&link=https://https://dove-nest.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
+<div>
+    <a href="https://instagram.com/kimhippo401">
+        <img 
+            src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="https://https://dove-nest.tistory.com">
+        <img 
+            src="http://img.shields.io/badge/-Tech%20Blog-blueviolet?style=flat&logo=github&link=https://https://dove-nest.tistory.com/"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+</div>
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEvoDmiK"
