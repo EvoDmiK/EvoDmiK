@@ -22,5 +22,5 @@
 
 # **STACKS**
 <div align=center>
-    <h5 font-weight=900><b>PROGRAMMING LANGUAGE</b></h5>
+    <h4><strong>PROGRAMMING LANGUAGE</strong></h4>
 </div>
