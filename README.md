@@ -1,7 +1,7 @@
 # **Hello! My name is Dove. J. Kim!**
 ## **I'm Python Developer and Deep Learning Enginner**
 
-<div>
+<div align=center>
     <a href="https://instagram.com/kimhippo401">
         <img 
             src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
@@ -18,4 +18,9 @@
     <img 
         src="https://img.shields.io/github/followers/EvoDmiK?label=EvoDmiK%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
+
+### **STACKS**
+<div align=center>
+    <h5 font-weight=900>PROGRAMMING LANGUAGE</h5>
 </div>
