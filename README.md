@@ -22,17 +22,19 @@
 
 # **STACKS**
 <div align=center>
-    <p><strong>PROGRAMMING LANGUAGES</strong></p>
+    <p><strong>1. PROGRAMMING LANGUAGES</strong></p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white">
 </div>
 <div align=center>
-    <p><strong>FRAMEWORKS</strong></p>
+    <p><strong>2. FRAMEWORKS</strong></p>
+    <p>2-1. AI & Data Science</p>
     <img src="https://img.shields.io/badge/Tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 </div>
+<br>
 <div align=center>
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
