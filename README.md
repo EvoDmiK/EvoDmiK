@@ -20,7 +20,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-### **STACKS**
+# **STACKS**
 <div align=center>
-    <h5 font-weight=900>PROGRAMMING LANGUAGE</h5>
+    <h5 font-weight=900><b>PROGRAMMING LANGUAGE</b></h5>
 </div>
