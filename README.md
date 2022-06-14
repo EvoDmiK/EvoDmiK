@@ -1,5 +1,7 @@
-# **Hello! My name is Dove. J. Kim!**
-**I'm Python Developer and Deep Learning Enginner**
+<div align=center>
+    # **Hello! My name is Dove. J. Kim!**
+    **I'm Python Developer and Deep Learning Enginner**
+</div>
 
 <div align=center>
     <a href="https://instagram.com/kimhippo401">
