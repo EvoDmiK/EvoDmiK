@@ -22,13 +22,13 @@
 
 # **STACKS**
 <div align=center>
-    <h2>PROGRAMMING LANGUAGES</h2>
+    ##**PROGRAMMING LANGUAGES**  
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white">
 </div>
 <div align=center>
-    <h2>FRAMEWORKS</h2>
+    ##**FRAMEWORKS**  
     <img src="https://img.shields.io/badge/Tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
