@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white">
 </div>
+<p></p>
 <div align=center>
     <p><strong>2. FRAMEWORKS</strong></p>
     <p>2-1. AI & Data Science</p>
@@ -34,7 +35,6 @@
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 </div>
-<p></p>
 <div align=center>
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
