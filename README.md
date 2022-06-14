@@ -10,7 +10,7 @@
 </div>
 <a href="https://instagram.com/kimhippo401">
     <img 
-        src="http://img.shields.io/badge/-Instagram-lightgrey?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
+        src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://https://dove-nest.tistory.com">
