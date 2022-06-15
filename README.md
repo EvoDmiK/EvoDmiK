@@ -1,6 +1,10 @@
 <h1>Hello! My name is Dove. J. Kim!<br>
     I'm Python Developer and Deep Learning Enginner</h1>
     
+<div align=center>
+    ## **1. PROGRAMMING LANGUAGES**
+</div>
+    
 <div align=center>    
     <a href="https://instagram.com/kimhippo401">
         <img 
