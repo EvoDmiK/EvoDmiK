@@ -1,7 +1,7 @@
-<div align=center>
-    <h1>Hello! My name is Dove. J. Kim!<br>
+<h1>Hello! My name is Dove. J. Kim!<br>
     I'm Python Developer and Deep Learning Enginner</h1>
     
+<div align=center>    
     <a href="https://instagram.com/kimhippo401">
         <img 
             src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
