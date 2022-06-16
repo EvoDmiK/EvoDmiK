@@ -42,9 +42,15 @@
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
     <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/Matplotlib-792EE5?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 <div align=center>
-    <p>2-2. Web Frameworks</p>
+    <p>2-2. Computer Vision</p>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+    <img src="https://img.shields.io/badge/Open3D-005EB8?style=for-the-badge&logo=Python&logoColor=white">
+</div>
+<div align=center>
+    <p>2-3. Web Frameworks</p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 </div>
