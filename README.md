@@ -1,10 +1,6 @@
 <h1>Hello! My name is Dove. J. Kim!<br>
     I'm Python Developer and Deep Learning Enginner</h1>
     
-<div align=center>
-    <a href="https://www.notion.so/396ade5c007d461fbeb449e2ae689af2">이력서</a></p>
-</div>
-
 <div align=center>    
     <a href="https://instagram.com/kimhippo401">
         <img 
@@ -23,6 +19,11 @@
         src="https://img.shields.io/github/followers/EvoDmiK?label=EvoDmiK%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
+
+<div align=center>
+    <p> CV : <a href="https://www.notion.so/396ade5c007d461fbeb449e2ae689af2">my CV Link (notion)</a></p>
+</div>
+
 
 # **STACKS**
 <div align=center>
