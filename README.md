@@ -2,9 +2,10 @@
     I'm Python Developer and Deep Learning Enginner</h1>
     
 <div align=center>
-    ## **1. PROGRAMMING LANGUAGES**
+    <h3>CV</h3>
+    <a href="https://www.notion.so/396ade5c007d461fbeb449e2ae689af2">이력서</a>
 </div>
-    
+
 <div align=center>    
     <a href="https://instagram.com/kimhippo401">
         <img 
