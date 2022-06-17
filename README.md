@@ -21,7 +21,7 @@
 </div>
 
 <div align=center>
-    <p> CV : <a href="https://www.notion.so/396ade5c007d461fbeb449e2ae689af2">my CV Link (notion)</a></p>
+    <p> CV : <a href="https://massive-fountain-329.notion.site/396ade5c007d461fbeb449e2ae689af2">my CV Link (notion)</a></p>
 </div>
 
 
