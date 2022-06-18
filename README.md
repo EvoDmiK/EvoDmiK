@@ -7,7 +7,7 @@
             src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://instagram.com/kimhippo401/"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href="https://https://dove-nest.tistory.com">
+    <a href="https://dove-nest.tistory.com/">
         <img 
             src="http://img.shields.io/badge/-Tech%20Blog-blueviolet?style=flat&logo=github&link=https://https://dove-nest.tistory.com/"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
