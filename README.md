@@ -55,3 +55,5 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 </div>
+
+![DoveKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvoDmiK&show_icons=true&theme=radical)
