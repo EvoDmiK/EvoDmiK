@@ -1,6 +1,6 @@
-<h1>Hello! My name is Dove. J. Kim!<br>
-    I'm Python Developer and Deep Learning Enginner</h1>
-    
+<h1>안녕하세요, 딥러닝 엔지니어, 파이썬 개발자인 김종민 입니다.<br></h1>
+<h2>빠르게 변화하는 세상에 발 맞추는 개발자가 되기 위해 노력 중 입니다.</h2>    
+
 <div align=center>    
     <a href="https://instagram.com/kimhippo401">
         <img 
