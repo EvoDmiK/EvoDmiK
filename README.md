@@ -21,7 +21,8 @@
 </div>
 
 <div align=center>
-    <p> CV : <a href="https://massive-fountain-329.notion.site/396ade5c007d461fbeb449e2ae689af2">my CV Link (notion)</a></p>
+    <p> CV : <a href="https://evodmik.notion.site/396ade5c007d461fbeb449e2ae689af2?pvs=4">my CV Link (notion)</a></p>
+    <p>공부 노션 : <a href="https://evodmik.notion.site/3566665cd7e845d08103e058cf900280?pvs=4">공부 정리 노션</a></p>
 </div>
 
 
