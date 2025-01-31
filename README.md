@@ -22,7 +22,7 @@
 
 <div align=center>
     <p> CV : <a href="https://evodmik.notion.site/c5c349e301194f1da7d3186b14493ff6?pvs=4">my CV Link (notion)</a></p>
-    <p>공부 노션 : <a href="https://evodmik.notion.site/3566665cd7e845d08103e058cf900280?pvs=4">공부 정리 노션</a></p>
+    <p>공부 노션 : <a href="https://evodmik.notion.site/18b1c8daeb6a8001b758f68e9de69ddc?v=18b1c8daeb6a81f6a0a4000c35a38297&pvs=4">공부 정리 노션</a></p>
 </div>
 
 
