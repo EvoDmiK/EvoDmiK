@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Jongmin%20Kim%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20→%20LLM%20%26%20Agent&descAlignY=58&descSize=18" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there%2C%20I%27m%20Dove%20Kim%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%E2%86%92%20LLM%20%26amp%3B%20Agent&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
@@ -13,13 +13,12 @@
   <a href="https://dove-nest.tistory.com/">
     <img src="https://img.shields.io/badge/Tech%20Blog-Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white" />
   </a>
-  <a href="https://docs.google.com/document/d/1WMz_6rXdtz_SXvAXLJVUX8fUoG_2f3oJ/edit?usp=sharing&ouid=116003646999339235187&rtpof=true&sd=true">
-    <img src="https://img.shields.io/badge/CV-Google%20Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white" />
+  <a href="https://drive.google.com/file/d/1YfkaXByckA4KEW_VKh_CsuGoVGX0LciY/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/CV-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
   <a href="https://github.com/EvoDmiK">
     <img src="https://img.shields.io/github/followers/EvoDmiK?label=Followers&style=flat-square&logo=github&color=181717" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=EvoDmiK&style=flat-square&color=blueviolet&label=Profile+Views" />
 </p>
 
 ---
