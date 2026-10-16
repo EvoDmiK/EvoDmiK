@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/CV-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
     <a href="https://drive.google.com/file/d/1mNOUi-9tpTZig3f303bKD7IrLr4fhDeK/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Protfolio-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
   <a href="https://github.com/EvoDmiK">
     <img src="https://img.shields.io/github/followers/EvoDmiK?label=Followers&style=flat-square&logo=github&color=181717" />
