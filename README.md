@@ -13,7 +13,7 @@
   <a href="https://dove-nest.tistory.com/">
     <img src="https://img.shields.io/badge/Tech%20Blog-Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1hBsau8Ay-rrW4jRIOFWRtAdwRG33hdLl/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1knyLhjfQ3dYUiQOhW1RnTySrW3LPzFBa/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
     <a href="https://drive.google.com/file/d/1mNOUi-9tpTZig3f303bKD7IrLr4fhDeK/view?usp=sharing">
